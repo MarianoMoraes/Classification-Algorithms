@@ -1,27 +1,25 @@
 # Classification-Algorithms
 
-IT Academy Barcelona - Data Science - Sprint 7 - MT01
-
-- Exercici 1
-Crea almenys dos models de classificació diferents per intentar predir el millor les classes de l'arxiu adjunt.
+- Exercise 1
+Create at least two different classification models to try to predict the best one for the classes in the attached file.
 
 
 
-- Exercici 2
-Compara els models de classificació utilitzant la precisió (accuracy), una matriu de confusió i d’altres mètriques més avançades.
+- Exercise 2
+Compare the classification models using accuracy, a fuzziness matrix and other more advanced metrics.
 
 
 
-- Exercici 3
-Entrena’ls usant els diferents paràmetres que admeten per tal de millorar-ne la predicció.
+- Exercise 3
+Train them using the different parameters they admit in order to improve their prediction.
 
 
 
-- Exercici 4
-Compara el seu rendiment fent servir l’aproximació traint/test o cross-validation.
+- Exercise 4
+Compare their performance using the test/trait or cross-validation approach.
 
 
 
-- Exercici 5
-Aplica algun procés d'enginyeria per millorar els resultats (normalització, estandardització, mostreig...)
+- Exercise 5
+Apply some engineering process to improve the results (normalization, standardization, sampling...).
 
