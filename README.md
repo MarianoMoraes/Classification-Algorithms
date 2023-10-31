@@ -1,6 +1,6 @@
 # Classification-Algorithms
 
-Tasca_M7_T01
+IT Academy Barcelona - Data Science - Sprint 7 - MT01
 
 - Exercici 1
 Crea almenys dos models de classificació diferents per intentar predir el millor les classes de l'arxiu adjunt.
